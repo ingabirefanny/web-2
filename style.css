@@ -1,0 +1,93 @@
+.first{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+gap: 1px;
+    padding: 50px;
+
+}
+.words{
+text-align: center;
+position: absolute;
+color: rgb(255,255,255);
+top: 50%;
+transform: translate(-50%,-50%);
+padding: 0.5rem;
+left: 45%;
+font-size: larger;
+}
+.shop{
+    background-color: rgb(179,110,51);
+    color: beige;
+    width: 150px;
+height: 40px;
+}
+.figures{
+    display: flex;
+    margin-left: 8%;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+
+.services{
+    text-align: center;
+}
+.product{
+    text-align: center;
+}
+.comfort{
+    display: flex;
+    margin-left: 8%;
+    gap: 1%;
+    padding: 10px;
+}
+
+.learn{
+     background-color: rgb(177,112,48);
+     color: beige;
+     width: 150px;
+     height: 40px;
+}
+
+.choco{
+    display: flex;
+    margin-left: 15%;
+    gap: 50px;
+}
+.room{
+    display: flex;
+    margin-left: 15%;
+    gap: 50px;
+}
+.modern{
+    display: flex;
+    margin-left:15%;
+    gap: 50px;
+}
+
+.blogg{
+    text-align: center;
+}
+
+.side{
+    display: flex;
+    gap: 40px;
+}
+.girl{
+    display: flex;
+    gap: 40px;
+}
+.lapt{
+    display: flex;
+    gap: 40px;
+}
+.all{
+    display: flex;
+    gap: 20px;
+    margin-left: 15%;
+
+}
+.ppp{
+    margin-left: 10%;
+
+}
